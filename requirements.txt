@@ -1,0 +1,11 @@
+azure==4.0.0
+flair
+pandas
+presidio_analyzer
+presidio_analyzer[stanza]
+presidio_analyzer[transformers]
+presidio_anonymizer
+python-dotenv
+spacy>=3.0.0,<4.0.0
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+tqdm
